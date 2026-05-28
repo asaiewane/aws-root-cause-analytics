@@ -6,7 +6,7 @@ This project simulates the use of AWS-style analytics to perform root cause anal
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 - Generate a synthetic dataset of 1,000 exam registrations
 - Simulate AWS querying (Athena/Redshift) using SQLite
@@ -16,7 +16,7 @@ This project simulates the use of AWS-style analytics to perform root cause anal
 
 ---
 
-## 🚀 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 - Python Analytics
 - SQL & SQLite Querying
@@ -27,7 +27,7 @@ This project simulates the use of AWS-style analytics to perform root cause anal
 - Data Simulation & Aggregation
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Python (Pandas, NumPy)
 - SQLite3 (for SQL-style analytics)
@@ -37,7 +37,7 @@ This project simulates the use of AWS-style analytics to perform root cause anal
 
 ---
 
-## 🚀 View the Rendered Notebook
+##  View the Rendered Notebook
 
 👉 **[View in nbviewer](https://nbviewer.org/github/Jeromas/aws-analytics-simulation/blob/main/AWS_Analytics_Simulation_ExamConfig.ipynb)**
 
@@ -48,7 +48,7 @@ This version includes:
 
 ---
 
-## 🧠 Author
+## Author
 
 **Alphonso J. Saiewane**  
 *Data Scientist | AI Prompt Engineer | International Trade Expert*  
