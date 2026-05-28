@@ -6,6 +6,12 @@ This project simulates the use of AWS-style analytics to perform root cause anal
 
 ---
 
+## Business Problem
+
+Educational testing organizations need efficient ways to identify the causes of failed exam registrations and operational bottlenecks.This project simulates an AWS-style analytics workflow to identify registration failure trends using SQL-style analysis and visualization techniques.
+
+---
+
 ##  Project Overview
 
 - Generate a synthetic dataset of 1,000 exam registrations
