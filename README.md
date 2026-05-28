@@ -16,7 +16,7 @@ This project simulates the use of AWS-style analytics to perform root cause anal
 
 ---
 
-## Key Skills Demonstrated
+## 🚀 Key Skills Demonstrated
 
 - Python Analytics
 - SQL & SQLite Querying
