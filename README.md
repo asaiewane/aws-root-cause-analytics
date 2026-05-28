@@ -45,7 +45,7 @@ Educational testing organizations need efficient ways to identify the causes of 
 
 ##  View the Rendered Notebook
 
-👉 **[View in nbviewer](https://nbviewer.org/github/Jeromas/aws-analytics-simulation/blob/main/AWS_Analytics_Simulation_ExamConfig.ipynb)**
+👉 ** [View in nbviewer](https://nbviewer.org/github/asaiewane/aws-root-cause-analytics/blob/main/aws_exam_analytics_simulation.ipynb)**
 
 This version includes:
 - Full SQL analysis workflow
