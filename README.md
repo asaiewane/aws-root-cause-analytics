@@ -8,12 +8,23 @@ This project simulates the use of AWS-style analytics to perform root cause anal
 
 ## 🔍 Project Overview
 
-- ✅ Generate a synthetic dataset of 1,000 exam registrations
-- ✅ Simulate AWS querying (Athena/Redshift) using SQLite
-- ✅ Perform root cause analysis on failed registrations
-- ✅ Visualize insights with a static Plotly bar chart (nbviewer-compatible)
-- ✅ Export data for simulated S3 integration
+- Generate a synthetic dataset of 1,000 exam registrations
+- Simulate AWS querying (Athena/Redshift) using SQLite
+- Perform root cause analysis on failed registrations
+- Visualize insights with a static Plotly bar chart (nbviewer-compatible)
+- Export data for simulated S3 integration
 
+---
+
+## Key Skills Demonstrated
+
+- Python Analytics
+- SQL & SQLite Querying
+- Root Cause Analysis
+- Plotly Visualization
+- AWS-style Analytics Simulation
+- Business Intelligence Reporting
+- Data Simulation & Aggregation
 ---
 
 ## 🛠️ Tools Used
