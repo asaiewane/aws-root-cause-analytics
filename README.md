@@ -2,8 +2,6 @@
   <img src="ban1.png" width="100%">
 </p>
 
-# AWS Analytics Simulation: Root Cause Analysis of Exam Registrations
-
 This project simulates the use of AWS-style analytics to perform root cause analysis on student exam registration failures—similar to tasks handled by the College Board's Exam Config team. It demonstrates how to use Python, SQL-style querying, and static visualization techniques to generate insights from operational data.
 
 ---
